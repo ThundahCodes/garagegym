@@ -1,3 +1,5 @@
+https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+
 # Garage Gym
 
 Garage Gym was my Diploma Thesis for my HTL-Diploma (german for Höhere Technische Lehranstalt). 
