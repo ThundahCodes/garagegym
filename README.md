@@ -1,4 +1,6 @@
 ![BootstrapBadge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![PHPBadge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JQueryBadge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 # Garage Gym
 
@@ -8,7 +10,7 @@ It's a website based on a gym in Albania which has features likes DB Connection 
 
 The link to the site is [Garage Gym](http://garagegym.htl-projekt.com).
 
-The structure is created with Bootstrap mostly and it's not only my work in here, rather the work of 4 individuals. 
+The structure is created with Bootstrap mostly with the help of JQuery in some sites like the navbar and index.php, but it's not only my work in here, rather the work of 4 individuals. 
 
 My work was mostly the Back-End :
 
