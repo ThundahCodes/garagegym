@@ -3,10 +3,10 @@
  * This PHP Script makes the connection to the database
  * The idea of db.php is to use the parameters "server, database, user, pwd, charset" to connect to the database
  */
-$server = "localhost";
-$database = "garagegymsql1";
-$user = "garagegymsql1";
-$pwd = 'lF-U4@5j';
+$server = "=";
+$database = "=";
+$user = "=";
+$pwd = '=';
 $charset = 'utf8';
 
 /*
