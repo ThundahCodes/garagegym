@@ -10,7 +10,7 @@ include_once("elements/db.php");
 $email = $_SESSION["recoverEmail"];
 $securityQuestion = "";
 
-$secretKey = 'ES_86fafeab44314fd0bfb7e0d5ebac0f85';
+$secretKey = '-';
     
 $statusMsg = '';
 
